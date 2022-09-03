@@ -6,4 +6,5 @@ generative adversarial networks (3D-V2V-GAN). Therefore, we call the proposed mo
 affirming good quality to the segmentation results.
 
 Reference:
-[Vox2Vox: 3D-GAN for Brain Tumor Segmentation] (https://arxiv.org/abs/2003.13653)
+
+Vox2Vox: 3D-GAN for Brain Tumor Segmentation (https://arxiv.org/abs/2003.13653)
